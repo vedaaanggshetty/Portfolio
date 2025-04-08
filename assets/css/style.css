@@ -200,6 +200,7 @@ body::-webkit-scrollbar-thumb {
 
 .section-subtitle {
   color: var(--theme-color);
+  font-size: 20px;
   font-family: var(--ff-poppins);
   font-weight: var(--fw-500);
   margin-block-end: 6px;
